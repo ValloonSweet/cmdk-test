@@ -1,4 +1,6 @@
-import './globals.css'
+import 'styles/globals.scss'
+import 'styles/cmdk/raycast.scss'
+
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 
